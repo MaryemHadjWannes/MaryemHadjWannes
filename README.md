@@ -22,38 +22,7 @@
 
 ## 🛠️ Tech Stack & Tools
 
-<div align="center">
-
-**Languages:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" title="Java" width="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" width="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="40"/>
-
-**Frontend:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="HTML" width="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title="CSS" width="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title="ReactJS" width="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="AngularJS" width="40"/>
-
-**Backend & DB:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" width="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" title="GitLab" width="40"/>
-
-**Blockchain:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" title="Solidity" width="40"/>  
-<img src="https://icons.iconarchive.com/icons/cjdowner/cryptocurrency-flat/1024/Ethereum-ETH-icon.png" title="Ethereum" width="40"/>  
-<img src="https://ipfs.trufflesuite.com/assets/logo.png" title="Truffle" width="40"/>  
-<img src="https://th.bing.com/th/id/OIP.dsUTcRbQTZYqXbc7RrtJMQAAAA?rs=1&pid=ImgDetMain" title="Ganache" width="40"/>  
-<img src="https://th.bing.com/th/id/OIP.PiV5dSmGw5vekhjd5oq2twAAAA?rs=1&pid=ImgDetMain" title="MetaMask" width="40"/>
-
-**Mobile:**  
-<img src="https://th.bing.com/th/id/R.4eaab2df975969da649d46aefbef66b0?rik=XMRxPb74S7ECNQ&riu=http%3a%2f%2fwww.newdesignfile.com%2fpostpic%2f2015%2f12%2fandroid-icon_352645.png&ehk=kviAfvslNaSSE4TGgHmh2YJqJnLiVkR2Uoh3Lp1TQYo%3d&risl=&pid=ImgRaw&r=0" title="Android" width="40"/>
-
-</div>
-
+<table align="center"> <thead> <tr> <th>🧠 Languages</th> <th>🎨 Frontend</th> <th>🛠 Backend & DB</th> <th>🔗 Blockchain</th> <th>📱 Mobile</th> </tr> </thead> <tbody align="center"> <tr> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" title="Java"/></td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" title="HTML"/></td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" title="Node.js"/></td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" title="Solidity"/></td> <td><img src="https://th.bing.com/th/id/R.4eaab2df975969da649d46aefbef66b0?rik=XMRxPb74S7ECNQ&pid=ImgRaw&r=0" width="40" title="Android"/></td> </tr> <tr> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/></td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" title="CSS"/></td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" title="MySQL"/></td> <td><img src="https://icons.iconarchive.com/icons/cjdowner/cryptocurrency-flat/1024/Ethereum-ETH-icon.png" width="40" title="Ethereum"/></td> <td></td> </tr> <tr> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C"/></td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" title="React"/></td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" title="GitLab"/></td> <td><img src="https://ipfs.trufflesuite.com/assets/logo.png" width="40" title="Truffle"/></td> <td></td> </tr> <tr> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/></td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" title="Angular"/></td> <td></td> <td><img src="https://th.bing.com/th/id/OIP.dsUTcRbQTZYqXbc7RrtJMQAAAA?pid=ImgDetMain" width="40" title="Ganache"/></td> <td></td> </tr> <tr> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/></td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40" title="Next.js"/></td> <td></td> <td><img src="https://th.bing.com/th/id/OIP.PiV5dSmGw5vekhjd5oq2twAAAA?pid=ImgDetMain" width="40" title="MetaMask"/></td> <td></td> </tr> </tbody> </table>
 ---
 
 ## 📈 GitHub Stats
