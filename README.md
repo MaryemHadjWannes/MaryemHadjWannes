@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hello Dev World!</h2>
 
 # 👩‍💻 Maryem Hadj Wannes  
-### Passionate Software Engineer | Blockchain Explorer | Full-Stack Developer
+### Software Engineer | Blockchain Researcher
 
 <p align="center">
   <img src="https://i.pinimg.com/564x/cc/b0/45/ccb04518ec0f00015b14db0270eefddf.jpg" alt="Coding" width="400"/>
