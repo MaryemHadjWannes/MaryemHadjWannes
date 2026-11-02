@@ -112,19 +112,6 @@ const maryem: Engineer = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaryemHadjWannes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaryemHadjWannes&layout=compact&theme=tokyonight&border_radius=12&hide_border=true"/>
-</div>
-
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaryemHadjWannes&theme=tokyo-night&bg_color=1a1b27&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true" width="95%"/>
-</div>
-
----
 
 ## 🚀 Featured Project
 
